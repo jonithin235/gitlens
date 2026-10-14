@@ -52,8 +52,8 @@ java Hello
 
 ## Collaboration Log
 
-* **Partner Name:** 
-* **GitHub Username:** 
+* **Partner Name:** Shamathmica G A
+* **GitHub Username:** shamathmicaga
 * **Activity Details:** Reviewed `hello.c` together and inspected code authorship and line-by-line change history using GitLens.
 
 
