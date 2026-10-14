@@ -1,3 +1,4 @@
+
 # Hello World Multi-Language Repository
 
 ## Description
@@ -13,6 +14,7 @@ This repository contains beginner-level "Hello, World!" programs in C, C++, Pyth
 ├── hello.py
 ├── Hello.java
 └── README.md
+
 ```
 
 ## Usage / Execution Guide
@@ -22,6 +24,7 @@ This repository contains beginner-level "Hello, World!" programs in C, C++, Pyth
 ```sh
 gcc hello.c -o hello
 ./hello
+
 ```
 
 ### C++
@@ -29,12 +32,14 @@ gcc hello.c -o hello
 ```sh
 g++ hello.cpp -o hello_cpp
 ./hello_cpp
+
 ```
 
 ### Python
 
 ```sh
 python3 hello.py
+
 ```
 
 ### Java
@@ -42,9 +47,21 @@ python3 hello.py
 ```sh
 javac Hello.java
 java Hello
+
 ```
+
+## Collaboration Log
+
+* **Partner Name:** 
+* **GitHub Username:** 
+* **Activity Details:** Reviewed `hello.c` together and inspected code authorship and line-by-line change history using GitLens.
+
+
+* **Key Takeaway:** GitLens allows developers to easily trace commit history and line authorship directly inside the editor.
+
+
 
 ## Author
 
-- **Name:** Sinchana Bhat P
-- **GitHub:** [jonithin235](https://github.com/jonithin235)
+* **Name:** Sinchana Bhat P
+* **GitHub:** [jonithin235](https://github.com/jonithin235)
